@@ -1,11 +1,7 @@
-import os
-import jax
 import jax.numpy as jnp
-import flax
 from flax import linen as nn
 from flax.serialization import from_bytes
 
-# Définition des modèles
 class InstanceNormalization(nn.Module):
     epsilon: float = 1e-5
 
