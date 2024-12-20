@@ -11,10 +11,10 @@
 ## Teams:
 
 - FOZAME ENDEZOUMOU Armand Bryan
-- Clare Reine APPESI
+- Clare Reine MAPESSI
 - Ketsia TALOTSING
-- Georges LIKOSSO
-- Seth SADY 
+- Georges Alexandre LISSOKO MARAMBA
+- Seth NDINGA 
 
 Prof: *Dr Yasser Almehio*
 
