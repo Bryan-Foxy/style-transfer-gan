@@ -14,7 +14,7 @@
 - Clare Reine APPESI
 - Ketsia TALOTSING
 - Georges LIKOSSO
-- Seth SADY
+- Seth SADY 
 
 Prof: *Dr Yasser Almehio*
 
